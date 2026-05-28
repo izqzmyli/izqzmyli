@@ -1,5 +1,7 @@
 # Rajan Bor
 
+something about me [rajanbor.com](https://rajanbor.com)
+
 ```go
 type ChillGuy struct {
     Currently  []string
